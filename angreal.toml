@@ -1,4 +1,4 @@
 key_1 = "value_1"
 key_2 = 1
-folder_variable = "folder_name"
-variable_text = "Just some text that we want to render"
+folder_variable = "angreal_test_project"
+variable_text = "Going to be the next big thing !"
