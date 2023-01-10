@@ -1,2 +1,2 @@
-def init()
+def init():
     print("INITIALIZING OUR PROJECT")
