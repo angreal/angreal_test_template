@@ -6,4 +6,4 @@ red = "\33[31m"
 end = "\33[0m"
 
 def init():
-    logging.warn("INITIALIZING OUR PROJECT!!! - MESSAGE COMES FROM init.py")
+    logging.info("INITIALIZING OUR PROJECT!!! - MESSAGE COMES FROM init.py")
